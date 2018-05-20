@@ -9,6 +9,10 @@ a:hover {
   color: #fff;
 }
 
+.btn {
+  margin-top: 0.5rem;
+}
+
 /* Custom default button */
 .btn-primary,
 .btn-primary:hover,
@@ -39,6 +43,14 @@ a:hover {
 
 .btn-secondary:hover {
   border: .1rem solid #e89c1d;
+}
+
+.icon {
+  height: 1.5rem;
+}
+
+.icon-small {
+  height: 1.2rem;
 }
 
 /*
